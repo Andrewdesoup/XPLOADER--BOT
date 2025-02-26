@@ -1,11 +1,11 @@
   //project_name : XPLOADER
-// @author : TYLOR
+// @author : Andrew
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
+// @instagram : pretty-boy.499
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : 233500850221
 //*
 //* 
 //=================================================//
@@ -23,16 +23,16 @@ global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '233500850221' 
 //Type your main number here
 
 //=================================================//
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233549772750', '233502285263'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Andrew' 
 //Type your name here
 
 //=================================================//
@@ -46,7 +46,7 @@ global.packname = process.env.STICKER_PACK_NAME || "᙭ᑭᒪOᗩᗪᗴᖇ"
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "ᗷOT" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Andrew" 
 //The sticker author name
 
 //=================================================//
@@ -66,7 +66,7 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
 // set true to enable and false to disable auto status react
 
 //=================================================//
@@ -79,7 +79,7 @@ global.chatbot = process.env.CHATBOT || 'false'
 // set true to enable and false to disable auto ai chatbot
 
 //=================================================//
-global.anticall = process.env.ANTI_CALL || 'false'
+global.anticall = process.env.ANTI_CALL || 'true'
 // set true to enable and false to disable auto blocking of callers
 
 //=================================================//
@@ -87,7 +87,7 @@ global.welcome = process.env.WELCOME_MSG || 'false'
 // set true to enable and false to disable welcoming and left messages to groups upon joining or leaving groups
 
 //=================================================//
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "Africa/Ghana" 
 //Don't edit this if you don't know!
 
 //=================================================//
@@ -95,7 +95,7 @@ global.autoread = process.env.AUTO_READ || 'false';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
-global.menustyle = process.env.MENU_STYLE || '2' 
+global.menustyle = process.env.MENU_STYLE || '3' 
 // options 1, 2, 3, 4 or 5
 // 1 = Document menu(Android only)
 // 2 = Text only menu(Android & iOS)
